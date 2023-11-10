@@ -1,0 +1,2482 @@
+[
+  {
+    "id": 10000025,
+    "name": "Xingqiu",
+    "level": 90,
+    "maxLevel": 90,
+    "rarity": 4,
+    "element": "Water",
+    "friendship_level": 10,
+    "ascension": 6,
+    "constellations_unlocked": 6,
+    "xp": 0,
+    "skills": [
+      {
+        "id": 10381,
+        "name": "Normal Attack: Guhua Style",
+        "icon": "https://enka.network/ui/Skill_A_01.png",
+        "level": 4
+      },
+      {
+        "id": 10382,
+        "name": "Guhua Sword: Fatal Rainscreen",
+        "icon": "https://enka.network/ui/Skill_S_Xingqiu_01.png",
+        "level": 11
+      },
+      {
+        "id": 10385,
+        "name": "Guhua Sword: Raincutter",
+        "icon": "https://enka.network/ui/Skill_E_Xingqiu_01.png",
+        "level": 12
+      }
+    ],
+    "weaponData": [
+      {
+        "substatWName": "ATK",
+        "substatWValue": 55.1,
+        "weaponStatType": 1
+      }
+    ],
+    "weapon_id": 11414,
+    "weapon_refinement": 5,
+    "weapon_main_stat_name": "Base ATK",
+    "weaponLevel": 90,
+    "weaponIcon": "https://enka.network/ui/UI_EquipIcon_Sword_Bakufu.png",
+    "weaponName": "Amenoma Kageuchi",
+    "weaponAscension": 6,
+    "weaponStat": 454,
+    "artifacts": [
+      {
+        "id": 94543,
+        "name": "Magnificent Tsuba",
+        "type": "EQUIP_BRACER",
+        "set": "Emblem of Severed Fate",
+        "icon": "https://enka.network/ui/UI_RelicIcon_15020_4.png",
+        "level": 20,
+        "main_stat_name": "HP",
+        "main_stat_value": 4780,
+        "main_stat_type": 0,
+        "sub_stats": [
+          {
+            "name": "CRIT Rate",
+            "value": 7.0,
+            "type": 1
+          },
+          {
+            "name": "HP",
+            "value": 10.5,
+            "type": 1
+          },
+          {
+            "name": "CRIT DMG",
+            "value": 21.0,
+            "type": 1
+          },
+          {
+            "name": "ATK",
+            "value": 5.3,
+            "type": 1
+          }
+        ]
+      },
+      {
+        "id": 94524,
+        "name": "Sundered Feather",
+        "type": "EQUIP_NECKLACE",
+        "set": "Emblem of Severed Fate",
+        "icon": "https://enka.network/ui/UI_RelicIcon_15020_2.png",
+        "level": 20,
+        "main_stat_name": "ATK",
+        "main_stat_value": 311,
+        "main_stat_type": 0,
+        "sub_stats": [
+          {
+            "name": "Energy Recharge",
+            "value": 17.5,
+            "type": 1
+          },
+          {
+            "name": "ATK",
+            "value": 5.3,
+            "type": 1
+          },
+          {
+            "name": "CRIT Rate",
+            "value": 6.6,
+            "type": 1
+          },
+          {
+            "name": "CRIT DMG",
+            "value": 18.7,
+            "type": 1
+          }
+        ]
+      },
+      {
+        "id": 94553,
+        "name": "Storm Cage",
+        "type": "EQUIP_SHOES",
+        "set": "Emblem of Severed Fate",
+        "icon": "https://enka.network/ui/UI_RelicIcon_15020_5.png",
+        "level": 20,
+        "main_stat_name": "Energy Recharge",
+        "main_stat_value": 51.8,
+        "main_stat_type": 1,
+        "sub_stats": [
+          {
+            "name": "HP",
+            "value": 209,
+            "type": 0
+          },
+          {
+            "name": "CRIT Rate",
+            "value": 3.5,
+            "type": 1
+          },
+          {
+            "name": "CRIT DMG",
+            "value": 21.8,
+            "type": 1
+          },
+          {
+            "name": "ATK",
+            "value": 14.6,
+            "type": 1
+          }
+        ]
+      },
+      {
+        "id": 90513,
+        "name": "Goblet of Thundering Deep",
+        "type": "EQUIP_RING",
+        "set": "Heart of Depth",
+        "icon": "https://enka.network/ui/UI_RelicIcon_15016_1.png",
+        "level": 20,
+        "main_stat_name": "Hydro DMG Bonus",
+        "main_stat_value": 46.6,
+        "main_stat_type": 1,
+        "sub_stats": [
+          {
+            "name": "ATK",
+            "value": 35,
+            "type": 0
+          },
+          {
+            "name": "Energy Recharge",
+            "value": 5.8,
+            "type": 1
+          },
+          {
+            "name": "DEF",
+            "value": 5.1,
+            "type": 1
+          },
+          {
+            "name": "CRIT DMG",
+            "value": 28.8,
+            "type": 1
+          }
+        ]
+      },
+      {
+        "id": 94534,
+        "name": "Ornate Kabuto",
+        "type": "EQUIP_DRESS",
+        "set": "Emblem of Severed Fate",
+        "icon": "https://enka.network/ui/UI_RelicIcon_15020_3.png",
+        "level": 20,
+        "main_stat_name": "CRIT Rate",
+        "main_stat_value": 31.1,
+        "main_stat_type": 1,
+        "sub_stats": [
+          {
+            "name": "ATK",
+            "value": 16,
+            "type": 0
+          },
+          {
+            "name": "DEF",
+            "value": 58,
+            "type": 0
+          },
+          {
+            "name": "ATK",
+            "value": 8.7,
+            "type": 1
+          },
+          {
+            "name": "CRIT DMG",
+            "value": 21.8,
+            "type": 1
+          }
+        ]
+      }
+    ],
+    "stats": {
+      "BASE_HP": 10223,
+      "FIGHT_PROP_HP": 4990,
+      "FIGHT_PROP_HP_PERCENT": "10.5%",
+      "FIGHT_PROP_BASE_ATTACK": 657,
+      "FIGHT_PROP_ATTACK": 362,
+      "FIGHT_PROP_ATTACK_PERCENT": "112.9%",
+      "FIGHT_PROP_BASE_DEFENSE": 758,
+      "FIGHT_PROP_DEFENSE": 58,
+      "FIGHT_PROP_DEFENSE_PERCENT": "5.1%",
+      "FIGHT_PROP_BASE_SPEED": 0,
+      "FIGHT_PROP_SPEED_PERCENT": "0%",
+      "FIGHT_PROP_HP_MP_PERCENT": "0%",
+      "FIGHT_PROP_ATTACK_MP_PERCENT": 0,
+      "FIGHT_PROP_CRITICAL": "53.2%",
+      "FIGHT_PROP_ANTI_CRITICAL": "0%",
+      "FIGHT_PROP_CRITICAL_HURT": "161.9%",
+      "FIGHT_PROP_CHARGE_EFFICIENCY": "195.1%",
+      "FIGHT_PROP_ADD_HURT": "0%",
+      "FIGHT_PROP_SUB_HURT": "0%",
+      "FIGHT_PROP_HEAL_ADD": "0%",
+      "FIGHT_PROP_HEALED_ADD": "0%",
+      "FIGHT_PROP_ELEMENT_MASTERY": 0,
+      "FIGHT_PROP_PHYSICAL_SUB_HURT": "0%",
+      "FIGHT_PROP_PHYSICAL_ADD_HURT": "0%",
+      "FIGHT_PROP_DEFENCE_IGNORE_RATIO": 0,
+      "FIGHT_PROP_DEFENCE_IGNORE_DELTA": 0,
+      "FIGHT_PROP_FIRE_ADD_HURT": "0%",
+      "FIGHT_PROP_ELEC_ADD_HURT": "0%",
+      "FIGHT_PROP_WATER_ADD_HURT": "66.6%",
+      "FIGHT_PROP_GRASS_ADD_HURT": "0%",
+      "FIGHT_PROP_WIND_ADD_HURT": "0%",
+      "FIGHT_PROP_ROCK_ADD_HURT": "0%",
+      "FIGHT_PROP_ICE_ADD_HURT": "0%",
+      "FIGHT_PROP_HIT_HEAD_ADD_HURT": "0%",
+      "FIGHT_PROP_FIRE_SUB_HURT": "0%",
+      "FIGHT_PROP_ELEC_SUB_HURT": "0%",
+      "FIGHT_PROP_WATER_SUB_HURT": "0%",
+      "FIGHT_PROP_GRASS_SUB_HURT": "0%",
+      "FIGHT_PROP_WIND_SUB_HURT": "0%",
+      "FIGHT_PROP_ROCK_SUB_HURT": "0%",
+      "FIGHT_PROP_ICE_SUB_HURT": "0%",
+      "FIGHT_PROP_EFFECT_HIT": 0,
+      "FIGHT_PROP_EFFECT_RESIST": 0,
+      "FIGHT_PROP_FREEZE_RESIST": 0,
+      "FIGHT_PROP_TORPOR_RESIST": 0,
+      "FIGHT_PROP_DIZZY_RESIST": 0,
+      "FIGHT_PROP_FREEZE_SHORTEN": 0,
+      "FIGHT_PROP_TORPOR_SHORTEN": 0,
+      "FIGHT_PROP_DIZZY_SHORTEN": 0,
+      "FIGHT_PROP_MAX_FIRE_ENERGY": 0,
+      "FIGHT_PROP_MAX_ELEC_ENERGY": 0,
+      "FIGHT_PROP_MAX_WATER_ENERGY": 80,
+      "FIGHT_PROP_MAX_GRASS_ENERGY": 0,
+      "FIGHT_PROP_MAX_WIND_ENERGY": 0,
+      "FIGHT_PROP_MAX_ICE_ENERGY": 0,
+      "FIGHT_PROP_MAX_ROCK_ENERGY": 0,
+      "FIGHT_PROP_SKILL_CD_MINUS_RATIO": 0,
+      "FIGHT_PROP_SHIELD_COST_MINUS_RATIO": 0,
+      "FIGHT_PROP_CUR_FIRE_ENERGY": 0,
+      "FIGHT_PROP_CUR_ELEC_ENERGY": 0,
+      "FIGHT_PROP_CUR_WATER_ENERGY": 40,
+      "FIGHT_PROP_CUR_GRASS_ENERGY": 0,
+      "FIGHT_PROP_CUR_WIND_ENERGY": 0,
+      "FIGHT_PROP_CUR_ICE_ENERGY": 0,
+      "FIGHT_PROP_CUR_ROCK_ENERGY": 0,
+      "FIGHT_PROP_CUR_HP": 7602,
+      "FIGHT_PROP_MAX_HP": 16284,
+      "FIGHT_PROP_CUR_ATTACK": 1759,
+      "FIGHT_PROP_CUR_DEFENSE": 855,
+      "FIGHT_PROP_CUR_SPEED": 0,
+      "FIGHT_PROP_NONEXTRA_ATTACK": 0,
+      "FIGHT_PROP_NONEXTRA_DEFENSE": 0,
+      "FIGHT_PROP_NONEXTRA_CRITICAL": "0%",
+      "FIGHT_PROP_NONEXTRA_CRITICAL_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_CHARGE_EFFICIENCY": "0%",
+      "FIGHT_PROP_NONEXTRA_ELEMENT_MASTERY": 0,
+      "FIGHT_PROP_NONEXTRA_PHYSICAL_SUB_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_FIRE_ADD_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_ELEC_ADD_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_WATER_ADD_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_GRASS_ADD_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_WIND_ADD_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_ROCK_ADD_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_ICE_ADD_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_FIRE_SUB_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_ELEC_SUB_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_WATER_SUB_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_GRASS_SUB_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_WIND_SUB_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_ROCK_SUB_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_ICE_SUB_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_SKILL_CD_MINUS_RATIO": 0,
+      "FIGHT_PROP_NONEXTRA_SHIELD_COST_MINUS_RATIO": 0,
+      "FIGHT_PROP_NONEXTRA_PHYSICAL_ADD_HURT": "0%"
+    }
+  },
+  {
+    "id": 10000024,
+    "name": "Beidou",
+    "level": 90,
+    "maxLevel": 90,
+    "rarity": 4,
+    "element": "Electric",
+    "friendship_level": 7,
+    "ascension": 6,
+    "constellations_unlocked": 6,
+    "xp": 0,
+    "skills": [
+      {
+        "id": 10241,
+        "name": "Normal Attack: Oceanborne",
+        "icon": "https://enka.network/ui/Skill_A_04.png",
+        "level": 1
+      },
+      {
+        "id": 10242,
+        "name": "Tidecaller",
+        "icon": "https://enka.network/ui/Skill_S_Beidou_01.png",
+        "level": 7
+      },
+      {
+        "id": 10245,
+        "name": "Stormbreaker",
+        "icon": "https://enka.network/ui/Skill_E_Beidou_01.png",
+        "level": 12
+      }
+    ],
+    "weaponData": [
+      {
+        "substatWName": "ATK",
+        "substatWValue": 55.1,
+        "weaponStatType": 1
+      }
+    ],
+    "weapon_id": 12412,
+    "weapon_refinement": 5,
+    "weapon_main_stat_name": "Base ATK",
+    "weaponLevel": 90,
+    "weaponIcon": "https://enka.network/ui/UI_EquipIcon_Claymore_MillenniaTuna.png",
+    "weaponName": "Luxurious Sea-Lord",
+    "weaponAscension": 6,
+    "weaponStat": 454,
+    "artifacts": [
+      {
+        "id": 94543,
+        "name": "Magnificent Tsuba",
+        "type": "EQUIP_BRACER",
+        "set": "Emblem of Severed Fate",
+        "icon": "https://enka.network/ui/UI_RelicIcon_15020_4.png",
+        "level": 20,
+        "main_stat_name": "HP",
+        "main_stat_value": 4780,
+        "main_stat_type": 0,
+        "sub_stats": [
+          {
+            "name": "DEF",
+            "value": 7.3,
+            "type": 1
+          },
+          {
+            "name": "CRIT DMG",
+            "value": 15.5,
+            "type": 1
+          },
+          {
+            "name": "CRIT Rate",
+            "value": 6.2,
+            "type": 1
+          },
+          {
+            "name": "ATK",
+            "value": 15.2,
+            "type": 1
+          }
+        ]
+      },
+      {
+        "id": 93523,
+        "name": "Shaft of Remembrance",
+        "type": "EQUIP_NECKLACE",
+        "set": "Shimenawa's Reminiscence",
+        "icon": "https://enka.network/ui/UI_RelicIcon_15019_2.png",
+        "level": 20,
+        "main_stat_name": "ATK",
+        "main_stat_value": 311,
+        "main_stat_type": 0,
+        "sub_stats": [
+          {
+            "name": "Elemental Mastery",
+            "value": 21,
+            "type": 0
+          },
+          {
+            "name": "CRIT Rate",
+            "value": 7.0,
+            "type": 1
+          },
+          {
+            "name": "CRIT DMG",
+            "value": 21.8,
+            "type": 1
+          },
+          {
+            "name": "HP",
+            "value": 448,
+            "type": 0
+          }
+        ]
+      },
+      {
+        "id": 93554,
+        "name": "Morning Dew's Moment",
+        "type": "EQUIP_SHOES",
+        "set": "Shimenawa's Reminiscence",
+        "icon": "https://enka.network/ui/UI_RelicIcon_15019_5.png",
+        "level": 20,
+        "main_stat_name": "ATK",
+        "main_stat_value": 46.6,
+        "main_stat_type": 1,
+        "sub_stats": [
+          {
+            "name": "DEF",
+            "value": 19,
+            "type": 0
+          },
+          {
+            "name": "Energy Recharge",
+            "value": 10.4,
+            "type": 1
+          },
+          {
+            "name": "CRIT Rate",
+            "value": 17.5,
+            "type": 1
+          },
+          {
+            "name": "HP",
+            "value": 4.1,
+            "type": 1
+          }
+        ]
+      },
+      {
+        "id": 94514,
+        "name": "Scarlet Vessel",
+        "type": "EQUIP_RING",
+        "set": "Emblem of Severed Fate",
+        "icon": "https://enka.network/ui/UI_RelicIcon_15020_1.png",
+        "level": 20,
+        "main_stat_name": "Electro DMG Bonus",
+        "main_stat_value": 46.6,
+        "main_stat_type": 1,
+        "sub_stats": [
+          {
+            "name": "CRIT Rate",
+            "value": 10.5,
+            "type": 1
+          },
+          {
+            "name": "ATK",
+            "value": 13.4,
+            "type": 1
+          },
+          {
+            "name": "DEF",
+            "value": 19,
+            "type": 0
+          },
+          {
+            "name": "HP",
+            "value": 508,
+            "type": 0
+          }
+        ]
+      },
+      {
+        "id": 73533,
+        "name": "Lavawalker's Wisdom",
+        "type": "EQUIP_DRESS",
+        "set": "Lavawalker",
+        "icon": "https://enka.network/ui/UI_RelicIcon_14003_3.png",
+        "level": 20,
+        "main_stat_name": "CRIT DMG",
+        "main_stat_value": 62.2,
+        "main_stat_type": 1,
+        "sub_stats": [
+          {
+            "name": "CRIT Rate",
+            "value": 10.5,
+            "type": 1
+          },
+          {
+            "name": "DEF",
+            "value": 13.9,
+            "type": 1
+          },
+          {
+            "name": "Elemental Mastery",
+            "value": 23,
+            "type": 0
+          },
+          {
+            "name": "ATK",
+            "value": 35,
+            "type": 0
+          }
+        ]
+      }
+    ],
+    "stats": {
+      "BASE_HP": 13050,
+      "FIGHT_PROP_HP": 5737,
+      "FIGHT_PROP_HP_PERCENT": "4.1%",
+      "FIGHT_PROP_BASE_ATTACK": 680,
+      "FIGHT_PROP_ATTACK": 347,
+      "FIGHT_PROP_ATTACK_PERCENT": "148.3%",
+      "FIGHT_PROP_BASE_DEFENSE": 649,
+      "FIGHT_PROP_DEFENSE": 38,
+      "FIGHT_PROP_DEFENSE_PERCENT": "21.1%",
+      "FIGHT_PROP_BASE_SPEED": 0,
+      "FIGHT_PROP_SPEED_PERCENT": "0%",
+      "FIGHT_PROP_HP_MP_PERCENT": "0%",
+      "FIGHT_PROP_ATTACK_MP_PERCENT": 0,
+      "FIGHT_PROP_CRITICAL": "56.7%",
+      "FIGHT_PROP_ANTI_CRITICAL": "0%",
+      "FIGHT_PROP_CRITICAL_HURT": "149.5%",
+      "FIGHT_PROP_CHARGE_EFFICIENCY": "130.4%",
+      "FIGHT_PROP_ADD_HURT": "0%",
+      "FIGHT_PROP_SUB_HURT": "0%",
+      "FIGHT_PROP_HEAL_ADD": "0%",
+      "FIGHT_PROP_HEALED_ADD": "0%",
+      "FIGHT_PROP_ELEMENT_MASTERY": 45,
+      "FIGHT_PROP_PHYSICAL_SUB_HURT": "0%",
+      "FIGHT_PROP_PHYSICAL_ADD_HURT": "0%",
+      "FIGHT_PROP_DEFENCE_IGNORE_RATIO": 0,
+      "FIGHT_PROP_DEFENCE_IGNORE_DELTA": 0,
+      "FIGHT_PROP_FIRE_ADD_HURT": "0%",
+      "FIGHT_PROP_ELEC_ADD_HURT": "70.6%",
+      "FIGHT_PROP_WATER_ADD_HURT": "0%",
+      "FIGHT_PROP_GRASS_ADD_HURT": "0%",
+      "FIGHT_PROP_WIND_ADD_HURT": "0%",
+      "FIGHT_PROP_ROCK_ADD_HURT": "0%",
+      "FIGHT_PROP_ICE_ADD_HURT": "0%",
+      "FIGHT_PROP_HIT_HEAD_ADD_HURT": "0%",
+      "FIGHT_PROP_FIRE_SUB_HURT": "0%",
+      "FIGHT_PROP_ELEC_SUB_HURT": "0%",
+      "FIGHT_PROP_WATER_SUB_HURT": "0%",
+      "FIGHT_PROP_GRASS_SUB_HURT": "0%",
+      "FIGHT_PROP_WIND_SUB_HURT": "0%",
+      "FIGHT_PROP_ROCK_SUB_HURT": "0%",
+      "FIGHT_PROP_ICE_SUB_HURT": "0%",
+      "FIGHT_PROP_EFFECT_HIT": 0,
+      "FIGHT_PROP_EFFECT_RESIST": 0,
+      "FIGHT_PROP_FREEZE_RESIST": 0,
+      "FIGHT_PROP_TORPOR_RESIST": 0,
+      "FIGHT_PROP_DIZZY_RESIST": 0,
+      "FIGHT_PROP_FREEZE_SHORTEN": 0,
+      "FIGHT_PROP_TORPOR_SHORTEN": 0,
+      "FIGHT_PROP_DIZZY_SHORTEN": 0,
+      "FIGHT_PROP_MAX_FIRE_ENERGY": 0,
+      "FIGHT_PROP_MAX_ELEC_ENERGY": 80,
+      "FIGHT_PROP_MAX_WATER_ENERGY": 0,
+      "FIGHT_PROP_MAX_GRASS_ENERGY": 0,
+      "FIGHT_PROP_MAX_WIND_ENERGY": 0,
+      "FIGHT_PROP_MAX_ICE_ENERGY": 0,
+      "FIGHT_PROP_MAX_ROCK_ENERGY": 0,
+      "FIGHT_PROP_SKILL_CD_MINUS_RATIO": 0,
+      "FIGHT_PROP_SHIELD_COST_MINUS_RATIO": 0,
+      "FIGHT_PROP_CUR_FIRE_ENERGY": 0,
+      "FIGHT_PROP_CUR_ELEC_ENERGY": 63,
+      "FIGHT_PROP_CUR_WATER_ENERGY": 0,
+      "FIGHT_PROP_CUR_GRASS_ENERGY": 0,
+      "FIGHT_PROP_CUR_WIND_ENERGY": 0,
+      "FIGHT_PROP_CUR_ICE_ENERGY": 0,
+      "FIGHT_PROP_CUR_ROCK_ENERGY": 0,
+      "FIGHT_PROP_CUR_HP": 19319,
+      "FIGHT_PROP_MAX_HP": 19319,
+      "FIGHT_PROP_CUR_ATTACK": 2034,
+      "FIGHT_PROP_CUR_DEFENSE": 823,
+      "FIGHT_PROP_CUR_SPEED": 0,
+      "FIGHT_PROP_NONEXTRA_ATTACK": 0,
+      "FIGHT_PROP_NONEXTRA_DEFENSE": 0,
+      "FIGHT_PROP_NONEXTRA_CRITICAL": "0%",
+      "FIGHT_PROP_NONEXTRA_CRITICAL_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_CHARGE_EFFICIENCY": "0%",
+      "FIGHT_PROP_NONEXTRA_ELEMENT_MASTERY": 0,
+      "FIGHT_PROP_NONEXTRA_PHYSICAL_SUB_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_FIRE_ADD_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_ELEC_ADD_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_WATER_ADD_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_GRASS_ADD_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_WIND_ADD_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_ROCK_ADD_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_ICE_ADD_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_FIRE_SUB_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_ELEC_SUB_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_WATER_SUB_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_GRASS_SUB_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_WIND_SUB_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_ROCK_SUB_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_ICE_SUB_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_SKILL_CD_MINUS_RATIO": 0,
+      "FIGHT_PROP_NONEXTRA_SHIELD_COST_MINUS_RATIO": 0,
+      "FIGHT_PROP_NONEXTRA_PHYSICAL_ADD_HURT": "0%"
+    }
+  },
+  {
+    "id": 10000069,
+    "name": "Tighnari",
+    "level": 80,
+    "maxLevel": 80,
+    "rarity": 5,
+    "element": "Grass",
+    "friendship_level": 3,
+    "ascension": 5,
+    "constellations_unlocked": 0,
+    "xp": 0,
+    "skills": [
+      {
+        "id": 10691,
+        "name": "Normal Attack: Khanda Barrier-Buster",
+        "icon": "https://enka.network/ui/Skill_A_02.png",
+        "level": 7
+      },
+      {
+        "id": 10692,
+        "name": "Vijnana-Phala Mine",
+        "icon": "https://enka.network/ui/Skill_S_Tighnari_01.png",
+        "level": 3
+      },
+      {
+        "id": 10695,
+        "name": "Fashioner's Tanglevine Shaft",
+        "icon": "https://enka.network/ui/Skill_E_Tighnari_01.png",
+        "level": 4
+      }
+    ],
+    "weaponData": [
+      {
+        "substatWName": "Elemental Mastery",
+        "substatWValue": 165,
+        "weaponStatType": 0
+      }
+    ],
+    "weapon_id": 15402,
+    "weapon_refinement": 5,
+    "weapon_main_stat_name": "Base ATK",
+    "weaponLevel": 90,
+    "weaponIcon": "https://enka.network/ui/UI_EquipIcon_Bow_Troupe.png",
+    "weaponName": "The Stringless",
+    "weaponAscension": 6,
+    "weaponStat": 510,
+    "artifacts": [
+      {
+        "id": 77543,
+        "name": "Troupe's Dawnlight",
+        "type": "EQUIP_BRACER",
+        "set": "Wanderer's Troupe",
+        "icon": "https://enka.network/ui/UI_RelicIcon_15003_4.png",
+        "level": 20,
+        "main_stat_name": "HP",
+        "main_stat_value": 4780,
+        "main_stat_type": 0,
+        "sub_stats": [
+          {
+            "name": "CRIT Rate",
+            "value": 10.1,
+            "type": 1
+          },
+          {
+            "name": "ATK",
+            "value": 4.7,
+            "type": 1
+          },
+          {
+            "name": "CRIT DMG",
+            "value": 18.7,
+            "type": 1
+          },
+          {
+            "name": "ATK",
+            "value": 14,
+            "type": 0
+          }
+        ]
+      },
+      {
+        "id": 77523,
+        "name": "Bard's Arrow Feather",
+        "type": "EQUIP_NECKLACE",
+        "set": "Wanderer's Troupe",
+        "icon": "https://enka.network/ui/UI_RelicIcon_15003_2.png",
+        "level": 20,
+        "main_stat_name": "ATK",
+        "main_stat_value": 311,
+        "main_stat_type": 0,
+        "sub_stats": [
+          {
+            "name": "Elemental Mastery",
+            "value": 23,
+            "type": 0
+          },
+          {
+            "name": "CRIT DMG",
+            "value": 24.9,
+            "type": 1
+          },
+          {
+            "name": "CRIT Rate",
+            "value": 5.8,
+            "type": 1
+          },
+          {
+            "name": "DEF",
+            "value": 21,
+            "type": 0
+          }
+        ]
+      },
+      {
+        "id": 77553,
+        "name": "Concert's Final Hour",
+        "type": "EQUIP_SHOES",
+        "set": "Wanderer's Troupe",
+        "icon": "https://enka.network/ui/UI_RelicIcon_15003_5.png",
+        "level": 20,
+        "main_stat_name": "Elemental Mastery",
+        "main_stat_value": 187,
+        "main_stat_type": 0,
+        "sub_stats": [
+          {
+            "name": "DEF",
+            "value": 23,
+            "type": 0
+          },
+          {
+            "name": "HP",
+            "value": 478,
+            "type": 0
+          },
+          {
+            "name": "CRIT DMG",
+            "value": 26.4,
+            "type": 1
+          },
+          {
+            "name": "ATK",
+            "value": 14,
+            "type": 0
+          }
+        ]
+      },
+      {
+        "id": 95513,
+        "name": "Calabash of Awakening",
+        "type": "EQUIP_RING",
+        "set": "Husk of Opulent Dreams",
+        "icon": "https://enka.network/ui/UI_RelicIcon_15021_1.png",
+        "level": 20,
+        "main_stat_name": "Dendro DMG Bonus",
+        "main_stat_value": 46.6,
+        "main_stat_type": 1,
+        "sub_stats": [
+          {
+            "name": "CRIT DMG",
+            "value": 14.8,
+            "type": 1
+          },
+          {
+            "name": "ATK",
+            "value": 4.7,
+            "type": 1
+          },
+          {
+            "name": "HP",
+            "value": 747,
+            "type": 0
+          },
+          {
+            "name": "Elemental Mastery",
+            "value": 40,
+            "type": 0
+          }
+        ]
+      },
+      {
+        "id": 77533,
+        "name": "Conductor's Top Hat",
+        "type": "EQUIP_DRESS",
+        "set": "Wanderer's Troupe",
+        "icon": "https://enka.network/ui/UI_RelicIcon_15003_3.png",
+        "level": 20,
+        "main_stat_name": "CRIT Rate",
+        "main_stat_value": 31.1,
+        "main_stat_type": 1,
+        "sub_stats": [
+          {
+            "name": "Elemental Mastery",
+            "value": 58,
+            "type": 0
+          },
+          {
+            "name": "CRIT DMG",
+            "value": 17.1,
+            "type": 1
+          },
+          {
+            "name": "DEF",
+            "value": 16,
+            "type": 0
+          },
+          {
+            "name": "Energy Recharge",
+            "value": 6.5,
+            "type": 1
+          }
+        ]
+      }
+    ],
+    "stats": {
+      "BASE_HP": 9573,
+      "FIGHT_PROP_HP": 6005,
+      "FIGHT_PROP_HP_PERCENT": "0%",
+      "FIGHT_PROP_BASE_ATTACK": 746,
+      "FIGHT_PROP_ATTACK": 339,
+      "FIGHT_PROP_ATTACK_PERCENT": "9.3%",
+      "FIGHT_PROP_BASE_DEFENSE": 557,
+      "FIGHT_PROP_DEFENSE": 61,
+      "FIGHT_PROP_DEFENSE_PERCENT": "0%",
+      "FIGHT_PROP_BASE_SPEED": 0,
+      "FIGHT_PROP_SPEED_PERCENT": "0%",
+      "FIGHT_PROP_HP_MP_PERCENT": "0%",
+      "FIGHT_PROP_ATTACK_MP_PERCENT": 0,
+      "FIGHT_PROP_CRITICAL": "52.0%",
+      "FIGHT_PROP_ANTI_CRITICAL": "0%",
+      "FIGHT_PROP_CRITICAL_HURT": "151.8%",
+      "FIGHT_PROP_CHARGE_EFFICIENCY": "106.5%",
+      "FIGHT_PROP_ADD_HURT": "0%",
+      "FIGHT_PROP_SUB_HURT": "0%",
+      "FIGHT_PROP_HEAL_ADD": "0%",
+      "FIGHT_PROP_HEALED_ADD": "0%",
+      "FIGHT_PROP_ELEMENT_MASTERY": 554,
+      "FIGHT_PROP_PHYSICAL_SUB_HURT": "0%",
+      "FIGHT_PROP_PHYSICAL_ADD_HURT": "0%",
+      "FIGHT_PROP_DEFENCE_IGNORE_RATIO": 0,
+      "FIGHT_PROP_DEFENCE_IGNORE_DELTA": 0,
+      "FIGHT_PROP_FIRE_ADD_HURT": "0%",
+      "FIGHT_PROP_ELEC_ADD_HURT": "0%",
+      "FIGHT_PROP_WATER_ADD_HURT": "0%",
+      "FIGHT_PROP_GRASS_ADD_HURT": "68.2%",
+      "FIGHT_PROP_WIND_ADD_HURT": "0%",
+      "FIGHT_PROP_ROCK_ADD_HURT": "0%",
+      "FIGHT_PROP_ICE_ADD_HURT": "0%",
+      "FIGHT_PROP_HIT_HEAD_ADD_HURT": "0%",
+      "FIGHT_PROP_FIRE_SUB_HURT": "0%",
+      "FIGHT_PROP_ELEC_SUB_HURT": "0%",
+      "FIGHT_PROP_WATER_SUB_HURT": "0%",
+      "FIGHT_PROP_GRASS_SUB_HURT": "0%",
+      "FIGHT_PROP_WIND_SUB_HURT": "0%",
+      "FIGHT_PROP_ROCK_SUB_HURT": "0%",
+      "FIGHT_PROP_ICE_SUB_HURT": "0%",
+      "FIGHT_PROP_EFFECT_HIT": 0,
+      "FIGHT_PROP_EFFECT_RESIST": 0,
+      "FIGHT_PROP_FREEZE_RESIST": 0,
+      "FIGHT_PROP_TORPOR_RESIST": 0,
+      "FIGHT_PROP_DIZZY_RESIST": 0,
+      "FIGHT_PROP_FREEZE_SHORTEN": 0,
+      "FIGHT_PROP_TORPOR_SHORTEN": 0,
+      "FIGHT_PROP_DIZZY_SHORTEN": 0,
+      "FIGHT_PROP_MAX_FIRE_ENERGY": 0,
+      "FIGHT_PROP_MAX_ELEC_ENERGY": 0,
+      "FIGHT_PROP_MAX_WATER_ENERGY": 0,
+      "FIGHT_PROP_MAX_GRASS_ENERGY": 40,
+      "FIGHT_PROP_MAX_WIND_ENERGY": 0,
+      "FIGHT_PROP_MAX_ICE_ENERGY": 0,
+      "FIGHT_PROP_MAX_ROCK_ENERGY": 0,
+      "FIGHT_PROP_SKILL_CD_MINUS_RATIO": 0,
+      "FIGHT_PROP_SHIELD_COST_MINUS_RATIO": 0,
+      "FIGHT_PROP_CUR_FIRE_ENERGY": 0,
+      "FIGHT_PROP_CUR_ELEC_ENERGY": 0,
+      "FIGHT_PROP_CUR_WATER_ENERGY": 0,
+      "FIGHT_PROP_CUR_GRASS_ENERGY": 40,
+      "FIGHT_PROP_CUR_WIND_ENERGY": 0,
+      "FIGHT_PROP_CUR_ICE_ENERGY": 0,
+      "FIGHT_PROP_CUR_ROCK_ENERGY": 0,
+      "FIGHT_PROP_CUR_HP": 15578,
+      "FIGHT_PROP_MAX_HP": 15578,
+      "FIGHT_PROP_CUR_ATTACK": 1154,
+      "FIGHT_PROP_CUR_DEFENSE": 617,
+      "FIGHT_PROP_CUR_SPEED": 0,
+      "FIGHT_PROP_NONEXTRA_ATTACK": 0,
+      "FIGHT_PROP_NONEXTRA_DEFENSE": 0,
+      "FIGHT_PROP_NONEXTRA_CRITICAL": "0%",
+      "FIGHT_PROP_NONEXTRA_CRITICAL_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_CHARGE_EFFICIENCY": "0%",
+      "FIGHT_PROP_NONEXTRA_ELEMENT_MASTERY": 0,
+      "FIGHT_PROP_NONEXTRA_PHYSICAL_SUB_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_FIRE_ADD_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_ELEC_ADD_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_WATER_ADD_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_GRASS_ADD_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_WIND_ADD_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_ROCK_ADD_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_ICE_ADD_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_FIRE_SUB_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_ELEC_SUB_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_WATER_SUB_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_GRASS_SUB_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_WIND_SUB_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_ROCK_SUB_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_ICE_SUB_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_SKILL_CD_MINUS_RATIO": 0,
+      "FIGHT_PROP_NONEXTRA_SHIELD_COST_MINUS_RATIO": 0,
+      "FIGHT_PROP_NONEXTRA_PHYSICAL_ADD_HURT": "0%"
+    }
+  },
+  {
+    "id": 10000032,
+    "name": "Bennett",
+    "level": 90,
+    "maxLevel": 90,
+    "rarity": 4,
+    "element": "Fire",
+    "friendship_level": 10,
+    "ascension": 6,
+    "constellations_unlocked": 6,
+    "xp": 0,
+    "skills": [
+      {
+        "id": 10321,
+        "name": "Normal Attack: Strike of Fortune",
+        "icon": "https://enka.network/ui/Skill_A_01.png",
+        "level": 1
+      },
+      {
+        "id": 10322,
+        "name": "Passion Overload",
+        "icon": "https://enka.network/ui/Skill_S_Bennett_01.png",
+        "level": 8
+      },
+      {
+        "id": 10323,
+        "name": "Fantastic Voyage",
+        "icon": "https://enka.network/ui/Skill_E_Bennett_01.png",
+        "level": 13
+      }
+    ],
+    "weaponData": [
+      {
+        "substatWName": "Physical DMG Bonus",
+        "substatWValue": 41.3,
+        "weaponStatType": 1
+      }
+    ],
+    "weapon_id": 11501,
+    "weapon_refinement": 1,
+    "weapon_main_stat_name": "Base ATK",
+    "weaponLevel": 90,
+    "weaponIcon": "https://enka.network/ui/UI_EquipIcon_Sword_Falcon.png",
+    "weaponName": "Aquila Favonia",
+    "weaponAscension": 6,
+    "weaponStat": 674,
+    "artifacts": [
+      {
+        "id": 81544,
+        "name": "Royal Flora",
+        "type": "EQUIP_BRACER",
+        "set": "Noblesse Oblige",
+        "icon": "https://enka.network/ui/UI_RelicIcon_15007_4.png",
+        "level": 20,
+        "main_stat_name": "HP",
+        "main_stat_value": 4780,
+        "main_stat_type": 0,
+        "sub_stats": [
+          {
+            "name": "Elemental Mastery",
+            "value": 37,
+            "type": 0
+          },
+          {
+            "name": "ATK",
+            "value": 18,
+            "type": 0
+          },
+          {
+            "name": "CRIT Rate",
+            "value": 6.6,
+            "type": 1
+          },
+          {
+            "name": "CRIT DMG",
+            "value": 28.8,
+            "type": 1
+          }
+        ]
+      },
+      {
+        "id": 81523,
+        "name": "Royal Plume",
+        "type": "EQUIP_NECKLACE",
+        "set": "Noblesse Oblige",
+        "icon": "https://enka.network/ui/UI_RelicIcon_15007_2.png",
+        "level": 20,
+        "main_stat_name": "ATK",
+        "main_stat_value": 311,
+        "main_stat_type": 0,
+        "sub_stats": [
+          {
+            "name": "CRIT Rate",
+            "value": 13.6,
+            "type": 1
+          },
+          {
+            "name": "Energy Recharge",
+            "value": 5.2,
+            "type": 1
+          },
+          {
+            "name": "CRIT DMG",
+            "value": 14.8,
+            "type": 1
+          },
+          {
+            "name": "DEF",
+            "value": 7.3,
+            "type": 1
+          }
+        ]
+      },
+      {
+        "id": 81553,
+        "name": "Royal Pocket Watch",
+        "type": "EQUIP_SHOES",
+        "set": "Noblesse Oblige",
+        "icon": "https://enka.network/ui/UI_RelicIcon_15007_5.png",
+        "level": 20,
+        "main_stat_name": "Energy Recharge",
+        "main_stat_value": 51.8,
+        "main_stat_type": 1,
+        "sub_stats": [
+          {
+            "name": "CRIT Rate",
+            "value": 3.5,
+            "type": 1
+          },
+          {
+            "name": "ATK",
+            "value": 19.8,
+            "type": 1
+          },
+          {
+            "name": "DEF",
+            "value": 10.9,
+            "type": 1
+          },
+          {
+            "name": "CRIT DMG",
+            "value": 5.4,
+            "type": 1
+          }
+        ]
+      },
+      {
+        "id": 81513,
+        "name": "Royal Silver Urn",
+        "type": "EQUIP_RING",
+        "set": "Noblesse Oblige",
+        "icon": "https://enka.network/ui/UI_RelicIcon_15007_1.png",
+        "level": 20,
+        "main_stat_name": "Pyro DMG Bonus",
+        "main_stat_value": 46.6,
+        "main_stat_type": 1,
+        "sub_stats": [
+          {
+            "name": "Elemental Mastery",
+            "value": 35,
+            "type": 0
+          },
+          {
+            "name": "CRIT Rate",
+            "value": 6.6,
+            "type": 1
+          },
+          {
+            "name": "HP",
+            "value": 508,
+            "type": 0
+          },
+          {
+            "name": "CRIT DMG",
+            "value": 12.4,
+            "type": 1
+          }
+        ]
+      },
+      {
+        "id": 27533,
+        "name": "Legacy of the Desert High-Born",
+        "type": "EQUIP_DRESS",
+        "set": "Desert Pavilion Chronicle",
+        "icon": "https://enka.network/ui/UI_RelicIcon_15027_3.png",
+        "level": 20,
+        "main_stat_name": "CRIT Rate",
+        "main_stat_value": 31.1,
+        "main_stat_type": 1,
+        "sub_stats": [
+          {
+            "name": "HP",
+            "value": 15.7,
+            "type": 1
+          },
+          {
+            "name": "CRIT DMG",
+            "value": 21.8,
+            "type": 1
+          },
+          {
+            "name": "DEF",
+            "value": 7.3,
+            "type": 1
+          },
+          {
+            "name": "Energy Recharge",
+            "value": 5.2,
+            "type": 1
+          }
+        ]
+      }
+    ],
+    "stats": {
+      "BASE_HP": 12398,
+      "FIGHT_PROP_HP": 5288,
+      "FIGHT_PROP_HP_PERCENT": "15.7%",
+      "FIGHT_PROP_BASE_ATTACK": 866,
+      "FIGHT_PROP_ATTACK": 329,
+      "FIGHT_PROP_ATTACK_PERCENT": "39.8%",
+      "FIGHT_PROP_BASE_DEFENSE": 772,
+      "FIGHT_PROP_DEFENSE": 0,
+      "FIGHT_PROP_DEFENSE_PERCENT": "25.5%",
+      "FIGHT_PROP_BASE_SPEED": 0,
+      "FIGHT_PROP_SPEED_PERCENT": "0%",
+      "FIGHT_PROP_HP_MP_PERCENT": "0%",
+      "FIGHT_PROP_ATTACK_MP_PERCENT": 0,
+      "FIGHT_PROP_CRITICAL": "66.4%",
+      "FIGHT_PROP_ANTI_CRITICAL": "0%",
+      "FIGHT_PROP_CRITICAL_HURT": "133.1%",
+      "FIGHT_PROP_CHARGE_EFFICIENCY": "188.8%",
+      "FIGHT_PROP_ADD_HURT": "0%",
+      "FIGHT_PROP_SUB_HURT": "0%",
+      "FIGHT_PROP_HEAL_ADD": "0%",
+      "FIGHT_PROP_HEALED_ADD": "0%",
+      "FIGHT_PROP_ELEMENT_MASTERY": 73,
+      "FIGHT_PROP_PHYSICAL_SUB_HURT": "0%",
+      "FIGHT_PROP_PHYSICAL_ADD_HURT": "41.3%",
+      "FIGHT_PROP_DEFENCE_IGNORE_RATIO": 0,
+      "FIGHT_PROP_DEFENCE_IGNORE_DELTA": 0,
+      "FIGHT_PROP_FIRE_ADD_HURT": "46.6%",
+      "FIGHT_PROP_ELEC_ADD_HURT": "0%",
+      "FIGHT_PROP_WATER_ADD_HURT": "0%",
+      "FIGHT_PROP_GRASS_ADD_HURT": "0%",
+      "FIGHT_PROP_WIND_ADD_HURT": "0%",
+      "FIGHT_PROP_ROCK_ADD_HURT": "0%",
+      "FIGHT_PROP_ICE_ADD_HURT": "0%",
+      "FIGHT_PROP_HIT_HEAD_ADD_HURT": "0%",
+      "FIGHT_PROP_FIRE_SUB_HURT": "0%",
+      "FIGHT_PROP_ELEC_SUB_HURT": "0%",
+      "FIGHT_PROP_WATER_SUB_HURT": "0%",
+      "FIGHT_PROP_GRASS_SUB_HURT": "0%",
+      "FIGHT_PROP_WIND_SUB_HURT": "0%",
+      "FIGHT_PROP_ROCK_SUB_HURT": "0%",
+      "FIGHT_PROP_ICE_SUB_HURT": "0%",
+      "FIGHT_PROP_EFFECT_HIT": 0,
+      "FIGHT_PROP_EFFECT_RESIST": 0,
+      "FIGHT_PROP_FREEZE_RESIST": 0,
+      "FIGHT_PROP_TORPOR_RESIST": 0,
+      "FIGHT_PROP_DIZZY_RESIST": 0,
+      "FIGHT_PROP_FREEZE_SHORTEN": 0,
+      "FIGHT_PROP_TORPOR_SHORTEN": 0,
+      "FIGHT_PROP_DIZZY_SHORTEN": 0,
+      "FIGHT_PROP_MAX_FIRE_ENERGY": 60,
+      "FIGHT_PROP_MAX_ELEC_ENERGY": 0,
+      "FIGHT_PROP_MAX_WATER_ENERGY": 0,
+      "FIGHT_PROP_MAX_GRASS_ENERGY": 0,
+      "FIGHT_PROP_MAX_WIND_ENERGY": 0,
+      "FIGHT_PROP_MAX_ICE_ENERGY": 0,
+      "FIGHT_PROP_MAX_ROCK_ENERGY": 0,
+      "FIGHT_PROP_SKILL_CD_MINUS_RATIO": 0,
+      "FIGHT_PROP_SHIELD_COST_MINUS_RATIO": 0,
+      "FIGHT_PROP_CUR_FIRE_ENERGY": 60,
+      "FIGHT_PROP_CUR_ELEC_ENERGY": 0,
+      "FIGHT_PROP_CUR_WATER_ENERGY": 0,
+      "FIGHT_PROP_CUR_GRASS_ENERGY": 0,
+      "FIGHT_PROP_CUR_WIND_ENERGY": 0,
+      "FIGHT_PROP_CUR_ICE_ENERGY": 0,
+      "FIGHT_PROP_CUR_ROCK_ENERGY": 0,
+      "FIGHT_PROP_CUR_HP": 19637,
+      "FIGHT_PROP_MAX_HP": 19637,
+      "FIGHT_PROP_CUR_ATTACK": 1539,
+      "FIGHT_PROP_CUR_DEFENSE": 968,
+      "FIGHT_PROP_CUR_SPEED": 0,
+      "FIGHT_PROP_NONEXTRA_ATTACK": 0,
+      "FIGHT_PROP_NONEXTRA_DEFENSE": 0,
+      "FIGHT_PROP_NONEXTRA_CRITICAL": "0%",
+      "FIGHT_PROP_NONEXTRA_CRITICAL_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_CHARGE_EFFICIENCY": "0%",
+      "FIGHT_PROP_NONEXTRA_ELEMENT_MASTERY": 0,
+      "FIGHT_PROP_NONEXTRA_PHYSICAL_SUB_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_FIRE_ADD_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_ELEC_ADD_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_WATER_ADD_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_GRASS_ADD_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_WIND_ADD_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_ROCK_ADD_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_ICE_ADD_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_FIRE_SUB_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_ELEC_SUB_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_WATER_SUB_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_GRASS_SUB_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_WIND_SUB_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_ROCK_SUB_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_ICE_SUB_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_SKILL_CD_MINUS_RATIO": 0,
+      "FIGHT_PROP_NONEXTRA_SHIELD_COST_MINUS_RATIO": 0,
+      "FIGHT_PROP_NONEXTRA_PHYSICAL_ADD_HURT": "0%"
+    }
+  },
+  {
+    "id": 10000048,
+    "name": "Yanfei",
+    "level": 90,
+    "maxLevel": 90,
+    "rarity": 4,
+    "element": "Fire",
+    "friendship_level": 10,
+    "ascension": 6,
+    "constellations_unlocked": 6,
+    "xp": 0,
+    "skills": [
+      {
+        "id": 10481,
+        "name": "Normal Attack: Seal of Approval",
+        "icon": "https://enka.network/ui/Skill_A_Catalyst_MD.png",
+        "level": 9
+      },
+      {
+        "id": 10482,
+        "name": "Signed Edict",
+        "icon": "https://enka.network/ui/Skill_S_Feiyan_01.png",
+        "level": 12
+      },
+      {
+        "id": 10485,
+        "name": "Done Deal",
+        "icon": "https://enka.network/ui/Skill_E_Feiyan_01.png",
+        "level": 12
+      }
+    ],
+    "weaponData": [
+      {
+        "substatWName": "ATK",
+        "substatWValue": 33.1,
+        "weaponStatType": 1
+      }
+    ],
+    "weapon_id": 14501,
+    "weapon_refinement": 1,
+    "weapon_main_stat_name": "Base ATK",
+    "weaponLevel": 90,
+    "weaponIcon": "https://enka.network/ui/UI_EquipIcon_Catalyst_Dvalin.png",
+    "weaponName": "Skyward Atlas",
+    "weaponAscension": 6,
+    "weaponStat": 674,
+    "artifacts": [
+      {
+        "id": 80544,
+        "name": "Witch's Flower of Blaze",
+        "type": "EQUIP_BRACER",
+        "set": "Crimson Witch of Flames",
+        "icon": "https://enka.network/ui/UI_RelicIcon_15006_4.png",
+        "level": 20,
+        "main_stat_name": "HP",
+        "main_stat_value": 4780,
+        "main_stat_type": 0,
+        "sub_stats": [
+          {
+            "name": "ATK",
+            "value": 10.5,
+            "type": 1
+          },
+          {
+            "name": "CRIT Rate",
+            "value": 8.6,
+            "type": 1
+          },
+          {
+            "name": "Energy Recharge",
+            "value": 12.3,
+            "type": 1
+          },
+          {
+            "name": "CRIT DMG",
+            "value": 13.2,
+            "type": 1
+          }
+        ]
+      },
+      {
+        "id": 80524,
+        "name": "Witch's Ever-Burning Plume",
+        "type": "EQUIP_NECKLACE",
+        "set": "Crimson Witch of Flames",
+        "icon": "https://enka.network/ui/UI_RelicIcon_15006_2.png",
+        "level": 20,
+        "main_stat_name": "ATK",
+        "main_stat_value": 311,
+        "main_stat_type": 0,
+        "sub_stats": [
+          {
+            "name": "Energy Recharge",
+            "value": 9.7,
+            "type": 1
+          },
+          {
+            "name": "CRIT DMG",
+            "value": 21.0,
+            "type": 1
+          },
+          {
+            "name": "CRIT Rate",
+            "value": 10.1,
+            "type": 1
+          },
+          {
+            "name": "DEF",
+            "value": 16,
+            "type": 0
+          }
+        ]
+      },
+      {
+        "id": 80553,
+        "name": "Witch's End Time",
+        "type": "EQUIP_SHOES",
+        "set": "Crimson Witch of Flames",
+        "icon": "https://enka.network/ui/UI_RelicIcon_15006_5.png",
+        "level": 20,
+        "main_stat_name": "ATK",
+        "main_stat_value": 46.6,
+        "main_stat_type": 1,
+        "sub_stats": [
+          {
+            "name": "CRIT DMG",
+            "value": 11.7,
+            "type": 1
+          },
+          {
+            "name": "HP",
+            "value": 508,
+            "type": 0
+          },
+          {
+            "name": "CRIT Rate",
+            "value": 10.9,
+            "type": 1
+          },
+          {
+            "name": "DEF",
+            "value": 21,
+            "type": 0
+          }
+        ]
+      },
+      {
+        "id": 76513,
+        "name": "Viridescent Venerer's Vessel",
+        "type": "EQUIP_RING",
+        "set": "Viridescent Venerer",
+        "icon": "https://enka.network/ui/UI_RelicIcon_15002_1.png",
+        "level": 20,
+        "main_stat_name": "Pyro DMG Bonus",
+        "main_stat_value": 46.6,
+        "main_stat_type": 1,
+        "sub_stats": [
+          {
+            "name": "HP",
+            "value": 538,
+            "type": 0
+          },
+          {
+            "name": "CRIT DMG",
+            "value": 6.2,
+            "type": 1
+          },
+          {
+            "name": "CRIT Rate",
+            "value": 13.6,
+            "type": 1
+          },
+          {
+            "name": "DEF",
+            "value": 23,
+            "type": 0
+          }
+        ]
+      },
+      {
+        "id": 80533,
+        "name": "Witch's Scorching Hat",
+        "type": "EQUIP_DRESS",
+        "set": "Crimson Witch of Flames",
+        "icon": "https://enka.network/ui/UI_RelicIcon_15006_3.png",
+        "level": 20,
+        "main_stat_name": "CRIT Rate",
+        "main_stat_value": 31.1,
+        "main_stat_type": 1,
+        "sub_stats": [
+          {
+            "name": "CRIT DMG",
+            "value": 20.2,
+            "type": 1
+          },
+          {
+            "name": "ATK",
+            "value": 19,
+            "type": 0
+          },
+          {
+            "name": "Elemental Mastery",
+            "value": 63,
+            "type": 0
+          },
+          {
+            "name": "HP",
+            "value": 5.8,
+            "type": 1
+          }
+        ]
+      }
+    ],
+    "stats": {
+      "BASE_HP": 9353,
+      "FIGHT_PROP_HP": 5826,
+      "FIGHT_PROP_HP_PERCENT": "5.8%",
+      "FIGHT_PROP_BASE_ATTACK": 915,
+      "FIGHT_PROP_ATTACK": 331,
+      "FIGHT_PROP_ATTACK_PERCENT": "90.2%",
+      "FIGHT_PROP_BASE_DEFENSE": 587,
+      "FIGHT_PROP_DEFENSE": 61,
+      "FIGHT_PROP_DEFENSE_PERCENT": "0%",
+      "FIGHT_PROP_BASE_SPEED": 0,
+      "FIGHT_PROP_SPEED_PERCENT": "0%",
+      "FIGHT_PROP_HP_MP_PERCENT": "0%",
+      "FIGHT_PROP_ATTACK_MP_PERCENT": 0,
+      "FIGHT_PROP_CRITICAL": "79.3%",
+      "FIGHT_PROP_ANTI_CRITICAL": "0%",
+      "FIGHT_PROP_CRITICAL_HURT": "122.3%",
+      "FIGHT_PROP_CHARGE_EFFICIENCY": "122.0%",
+      "FIGHT_PROP_ADD_HURT": "0%",
+      "FIGHT_PROP_SUB_HURT": "0%",
+      "FIGHT_PROP_HEAL_ADD": "0%",
+      "FIGHT_PROP_HEALED_ADD": "0%",
+      "FIGHT_PROP_ELEMENT_MASTERY": 63,
+      "FIGHT_PROP_PHYSICAL_SUB_HURT": "0%",
+      "FIGHT_PROP_PHYSICAL_ADD_HURT": "0%",
+      "FIGHT_PROP_DEFENCE_IGNORE_RATIO": 0,
+      "FIGHT_PROP_DEFENCE_IGNORE_DELTA": 0,
+      "FIGHT_PROP_FIRE_ADD_HURT": "85.6%",
+      "FIGHT_PROP_ELEC_ADD_HURT": "0%",
+      "FIGHT_PROP_WATER_ADD_HURT": "0%",
+      "FIGHT_PROP_GRASS_ADD_HURT": "0%",
+      "FIGHT_PROP_WIND_ADD_HURT": "0%",
+      "FIGHT_PROP_ROCK_ADD_HURT": "0%",
+      "FIGHT_PROP_ICE_ADD_HURT": "0%",
+      "FIGHT_PROP_HIT_HEAD_ADD_HURT": "0%",
+      "FIGHT_PROP_FIRE_SUB_HURT": "0%",
+      "FIGHT_PROP_ELEC_SUB_HURT": "0%",
+      "FIGHT_PROP_WATER_SUB_HURT": "0%",
+      "FIGHT_PROP_GRASS_SUB_HURT": "0%",
+      "FIGHT_PROP_WIND_SUB_HURT": "0%",
+      "FIGHT_PROP_ROCK_SUB_HURT": "0%",
+      "FIGHT_PROP_ICE_SUB_HURT": "0%",
+      "FIGHT_PROP_EFFECT_HIT": 0,
+      "FIGHT_PROP_EFFECT_RESIST": 0,
+      "FIGHT_PROP_FREEZE_RESIST": 0,
+      "FIGHT_PROP_TORPOR_RESIST": 0,
+      "FIGHT_PROP_DIZZY_RESIST": 0,
+      "FIGHT_PROP_FREEZE_SHORTEN": 0,
+      "FIGHT_PROP_TORPOR_SHORTEN": 0,
+      "FIGHT_PROP_DIZZY_SHORTEN": 0,
+      "FIGHT_PROP_MAX_FIRE_ENERGY": 80,
+      "FIGHT_PROP_MAX_ELEC_ENERGY": 0,
+      "FIGHT_PROP_MAX_WATER_ENERGY": 0,
+      "FIGHT_PROP_MAX_GRASS_ENERGY": 0,
+      "FIGHT_PROP_MAX_WIND_ENERGY": 0,
+      "FIGHT_PROP_MAX_ICE_ENERGY": 0,
+      "FIGHT_PROP_MAX_ROCK_ENERGY": 0,
+      "FIGHT_PROP_SKILL_CD_MINUS_RATIO": 0,
+      "FIGHT_PROP_SHIELD_COST_MINUS_RATIO": 0,
+      "FIGHT_PROP_CUR_FIRE_ENERGY": 38,
+      "FIGHT_PROP_CUR_ELEC_ENERGY": 0,
+      "FIGHT_PROP_CUR_WATER_ENERGY": 0,
+      "FIGHT_PROP_CUR_GRASS_ENERGY": 0,
+      "FIGHT_PROP_CUR_WIND_ENERGY": 0,
+      "FIGHT_PROP_CUR_ICE_ENERGY": 0,
+      "FIGHT_PROP_CUR_ROCK_ENERGY": 0,
+      "FIGHT_PROP_CUR_HP": 15724,
+      "FIGHT_PROP_MAX_HP": 15724,
+      "FIGHT_PROP_CUR_ATTACK": 2070,
+      "FIGHT_PROP_CUR_DEFENSE": 648,
+      "FIGHT_PROP_CUR_SPEED": 0,
+      "FIGHT_PROP_NONEXTRA_ATTACK": 0,
+      "FIGHT_PROP_NONEXTRA_DEFENSE": 0,
+      "FIGHT_PROP_NONEXTRA_CRITICAL": "0%",
+      "FIGHT_PROP_NONEXTRA_CRITICAL_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_CHARGE_EFFICIENCY": "0%",
+      "FIGHT_PROP_NONEXTRA_ELEMENT_MASTERY": 0,
+      "FIGHT_PROP_NONEXTRA_PHYSICAL_SUB_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_FIRE_ADD_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_ELEC_ADD_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_WATER_ADD_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_GRASS_ADD_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_WIND_ADD_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_ROCK_ADD_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_ICE_ADD_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_FIRE_SUB_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_ELEC_SUB_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_WATER_SUB_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_GRASS_SUB_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_WIND_SUB_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_ROCK_SUB_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_ICE_SUB_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_SKILL_CD_MINUS_RATIO": 0,
+      "FIGHT_PROP_NONEXTRA_SHIELD_COST_MINUS_RATIO": 0,
+      "FIGHT_PROP_NONEXTRA_PHYSICAL_ADD_HURT": "0%"
+    }
+  },
+  {
+    "id": 10000041,
+    "name": "Mona",
+    "level": 80,
+    "maxLevel": 80,
+    "rarity": 5,
+    "element": "Water",
+    "friendship_level": 10,
+    "ascension": 5,
+    "constellations_unlocked": 1,
+    "xp": 0,
+    "skills": [
+      {
+        "id": 10411,
+        "name": "Normal Attack: Ripple of Fate",
+        "icon": "https://enka.network/ui/Skill_A_Catalyst_MD.png",
+        "level": 3
+      },
+      {
+        "id": 10412,
+        "name": "Mirror Reflection of Doom",
+        "icon": "https://enka.network/ui/Skill_S_Mona_01.png",
+        "level": 6
+      },
+      {
+        "id": 10415,
+        "name": "Stellaris Phantasm",
+        "icon": "https://enka.network/ui/Skill_E_Mona_01.png",
+        "level": 8
+      }
+    ],
+    "weaponData": [
+      {
+        "substatWName": "HP",
+        "substatWValue": 29.0,
+        "weaponStatType": 1
+      }
+    ],
+    "weapon_id": 14302,
+    "weapon_refinement": 5,
+    "weapon_main_stat_name": "Base ATK",
+    "weaponLevel": 70,
+    "weaponIcon": "https://enka.network/ui/UI_EquipIcon_Catalyst_Pulpfic.png",
+    "weaponName": "Thrilling Tales of Dragon Slayers",
+    "weaponAscension": 4,
+    "weaponStat": 309,
+    "artifacts": [
+      {
+        "id": 91543,
+        "name": "Flower of Accolades",
+        "type": "EQUIP_BRACER",
+        "set": "Tenacity of the Millelith",
+        "icon": "https://enka.network/ui/UI_RelicIcon_15017_4.png",
+        "level": 20,
+        "main_stat_name": "HP",
+        "main_stat_value": 4780,
+        "main_stat_type": 0,
+        "sub_stats": [
+          {
+            "name": "ATK",
+            "value": 14,
+            "type": 0
+          },
+          {
+            "name": "DEF",
+            "value": 16,
+            "type": 0
+          },
+          {
+            "name": "CRIT DMG",
+            "value": 24.9,
+            "type": 1
+          },
+          {
+            "name": "CRIT Rate",
+            "value": 6.6,
+            "type": 1
+          }
+        ]
+      },
+      {
+        "id": 91523,
+        "name": "Ceremonial War-Plume",
+        "type": "EQUIP_NECKLACE",
+        "set": "Tenacity of the Millelith",
+        "icon": "https://enka.network/ui/UI_RelicIcon_15017_2.png",
+        "level": 20,
+        "main_stat_name": "ATK",
+        "main_stat_value": 311,
+        "main_stat_type": 0,
+        "sub_stats": [
+          {
+            "name": "HP",
+            "value": 508,
+            "type": 0
+          },
+          {
+            "name": "CRIT DMG",
+            "value": 10.9,
+            "type": 1
+          },
+          {
+            "name": "Energy Recharge",
+            "value": 16.2,
+            "type": 1
+          },
+          {
+            "name": "Elemental Mastery",
+            "value": 16,
+            "type": 0
+          }
+        ]
+      },
+      {
+        "id": 93554,
+        "name": "Morning Dew's Moment",
+        "type": "EQUIP_SHOES",
+        "set": "Shimenawa's Reminiscence",
+        "icon": "https://enka.network/ui/UI_RelicIcon_15019_5.png",
+        "level": 20,
+        "main_stat_name": "Energy Recharge",
+        "main_stat_value": 51.8,
+        "main_stat_type": 1,
+        "sub_stats": [
+          {
+            "name": "DEF",
+            "value": 11.7,
+            "type": 1
+          },
+          {
+            "name": "HP",
+            "value": 239,
+            "type": 0
+          },
+          {
+            "name": "DEF",
+            "value": 44,
+            "type": 0
+          },
+          {
+            "name": "CRIT DMG",
+            "value": 23.3,
+            "type": 1
+          }
+        ]
+      },
+      {
+        "id": 91514,
+        "name": "Noble's Pledging Vessel",
+        "type": "EQUIP_RING",
+        "set": "Tenacity of the Millelith",
+        "icon": "https://enka.network/ui/UI_RelicIcon_15017_1.png",
+        "level": 16,
+        "main_stat_name": "ATK",
+        "main_stat_value": 38.7,
+        "main_stat_type": 1,
+        "sub_stats": [
+          {
+            "name": "CRIT DMG",
+            "value": 5.4,
+            "type": 1
+          },
+          {
+            "name": "DEF",
+            "value": 16,
+            "type": 0
+          },
+          {
+            "name": "ATK",
+            "value": 49,
+            "type": 0
+          },
+          {
+            "name": "HP",
+            "value": 747,
+            "type": 0
+          }
+        ]
+      },
+      {
+        "id": 91533,
+        "name": "General's Ancient Helm",
+        "type": "EQUIP_DRESS",
+        "set": "Tenacity of the Millelith",
+        "icon": "https://enka.network/ui/UI_RelicIcon_15017_3.png",
+        "level": 20,
+        "main_stat_name": "CRIT Rate",
+        "main_stat_value": 31.1,
+        "main_stat_type": 1,
+        "sub_stats": [
+          {
+            "name": "HP",
+            "value": 15.7,
+            "type": 1
+          },
+          {
+            "name": "HP",
+            "value": 209,
+            "type": 0
+          },
+          {
+            "name": "Energy Recharge",
+            "value": 11.7,
+            "type": 1
+          },
+          {
+            "name": "Elemental Mastery",
+            "value": 42,
+            "type": 0
+          }
+        ]
+      }
+    ],
+    "stats": {
+      "BASE_HP": 9184,
+      "FIGHT_PROP_HP": 6483,
+      "FIGHT_PROP_HP_PERCENT": "64.7%",
+      "FIGHT_PROP_BASE_ATTACK": 563,
+      "FIGHT_PROP_ATTACK": 374,
+      "FIGHT_PROP_ATTACK_PERCENT": "38.7%",
+      "FIGHT_PROP_BASE_DEFENSE": 577,
+      "FIGHT_PROP_DEFENSE": 77,
+      "FIGHT_PROP_DEFENSE_PERCENT": "11.7%",
+      "FIGHT_PROP_BASE_SPEED": 0,
+      "FIGHT_PROP_SPEED_PERCENT": "0%",
+      "FIGHT_PROP_HP_MP_PERCENT": "0%",
+      "FIGHT_PROP_ATTACK_MP_PERCENT": 0,
+      "FIGHT_PROP_CRITICAL": "42.7%",
+      "FIGHT_PROP_ANTI_CRITICAL": "0%",
+      "FIGHT_PROP_CRITICAL_HURT": "114.5%",
+      "FIGHT_PROP_CHARGE_EFFICIENCY": "203.6%",
+      "FIGHT_PROP_ADD_HURT": "0%",
+      "FIGHT_PROP_SUB_HURT": "0%",
+      "FIGHT_PROP_HEAL_ADD": "0%",
+      "FIGHT_PROP_HEALED_ADD": "0%",
+      "FIGHT_PROP_ELEMENT_MASTERY": 59,
+      "FIGHT_PROP_PHYSICAL_SUB_HURT": "0%",
+      "FIGHT_PROP_PHYSICAL_ADD_HURT": "0%",
+      "FIGHT_PROP_DEFENCE_IGNORE_RATIO": 0,
+      "FIGHT_PROP_DEFENCE_IGNORE_DELTA": 0,
+      "FIGHT_PROP_FIRE_ADD_HURT": "0%",
+      "FIGHT_PROP_ELEC_ADD_HURT": "0%",
+      "FIGHT_PROP_WATER_ADD_HURT": "40.7%",
+      "FIGHT_PROP_GRASS_ADD_HURT": "0%",
+      "FIGHT_PROP_WIND_ADD_HURT": "0%",
+      "FIGHT_PROP_ROCK_ADD_HURT": "0%",
+      "FIGHT_PROP_ICE_ADD_HURT": "0%",
+      "FIGHT_PROP_HIT_HEAD_ADD_HURT": "0%",
+      "FIGHT_PROP_FIRE_SUB_HURT": "0%",
+      "FIGHT_PROP_ELEC_SUB_HURT": "0%",
+      "FIGHT_PROP_WATER_SUB_HURT": "0%",
+      "FIGHT_PROP_GRASS_SUB_HURT": "0%",
+      "FIGHT_PROP_WIND_SUB_HURT": "0%",
+      "FIGHT_PROP_ROCK_SUB_HURT": "0%",
+      "FIGHT_PROP_ICE_SUB_HURT": "0%",
+      "FIGHT_PROP_EFFECT_HIT": 0,
+      "FIGHT_PROP_EFFECT_RESIST": 0,
+      "FIGHT_PROP_FREEZE_RESIST": 0,
+      "FIGHT_PROP_TORPOR_RESIST": 0,
+      "FIGHT_PROP_DIZZY_RESIST": 0,
+      "FIGHT_PROP_FREEZE_SHORTEN": 0,
+      "FIGHT_PROP_TORPOR_SHORTEN": 0,
+      "FIGHT_PROP_DIZZY_SHORTEN": 0,
+      "FIGHT_PROP_MAX_FIRE_ENERGY": 0,
+      "FIGHT_PROP_MAX_ELEC_ENERGY": 0,
+      "FIGHT_PROP_MAX_WATER_ENERGY": 60,
+      "FIGHT_PROP_MAX_GRASS_ENERGY": 0,
+      "FIGHT_PROP_MAX_WIND_ENERGY": 0,
+      "FIGHT_PROP_MAX_ICE_ENERGY": 0,
+      "FIGHT_PROP_MAX_ROCK_ENERGY": 0,
+      "FIGHT_PROP_SKILL_CD_MINUS_RATIO": 0,
+      "FIGHT_PROP_SHIELD_COST_MINUS_RATIO": 0,
+      "FIGHT_PROP_CUR_FIRE_ENERGY": 0,
+      "FIGHT_PROP_CUR_ELEC_ENERGY": 0,
+      "FIGHT_PROP_CUR_WATER_ENERGY": 60,
+      "FIGHT_PROP_CUR_GRASS_ENERGY": 0,
+      "FIGHT_PROP_CUR_WIND_ENERGY": 0,
+      "FIGHT_PROP_CUR_ICE_ENERGY": 0,
+      "FIGHT_PROP_CUR_ROCK_ENERGY": 0,
+      "FIGHT_PROP_CUR_HP": 20831,
+      "FIGHT_PROP_MAX_HP": 21613,
+      "FIGHT_PROP_CUR_ATTACK": 1154,
+      "FIGHT_PROP_CUR_DEFENSE": 720,
+      "FIGHT_PROP_CUR_SPEED": 0,
+      "FIGHT_PROP_NONEXTRA_ATTACK": 0,
+      "FIGHT_PROP_NONEXTRA_DEFENSE": 0,
+      "FIGHT_PROP_NONEXTRA_CRITICAL": "0%",
+      "FIGHT_PROP_NONEXTRA_CRITICAL_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_CHARGE_EFFICIENCY": "0%",
+      "FIGHT_PROP_NONEXTRA_ELEMENT_MASTERY": 0,
+      "FIGHT_PROP_NONEXTRA_PHYSICAL_SUB_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_FIRE_ADD_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_ELEC_ADD_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_WATER_ADD_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_GRASS_ADD_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_WIND_ADD_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_ROCK_ADD_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_ICE_ADD_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_FIRE_SUB_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_ELEC_SUB_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_WATER_SUB_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_GRASS_SUB_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_WIND_SUB_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_ROCK_SUB_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_ICE_SUB_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_SKILL_CD_MINUS_RATIO": 0,
+      "FIGHT_PROP_NONEXTRA_SHIELD_COST_MINUS_RATIO": 0,
+      "FIGHT_PROP_NONEXTRA_PHYSICAL_ADD_HURT": "0%"
+    }
+  },
+  {
+    "id": 10000023,
+    "name": "Xiangling",
+    "level": 80,
+    "maxLevel": 90,
+    "rarity": 4,
+    "element": "Fire",
+    "friendship_level": 10,
+    "ascension": 6,
+    "constellations_unlocked": 6,
+    "xp": 77201,
+    "skills": [
+      {
+        "id": 10231,
+        "name": "Normal Attack: Dough-Fu",
+        "icon": "https://enka.network/ui/Skill_A_03.png",
+        "level": 3
+      },
+      {
+        "id": 10232,
+        "name": "Guoba Attack",
+        "icon": "https://enka.network/ui/Skill_S_Xiangling_01.png",
+        "level": 7
+      },
+      {
+        "id": 10235,
+        "name": "Pyronado",
+        "icon": "https://enka.network/ui/Skill_E_Xiangling_01.png",
+        "level": 11
+      }
+    ],
+    "weaponData": [
+      {
+        "substatWName": "Energy Recharge",
+        "substatWValue": 45.9,
+        "weaponStatType": 1
+      }
+    ],
+    "weapon_id": 13415,
+    "weapon_refinement": 5,
+    "weapon_main_stat_name": "Base ATK",
+    "weaponLevel": 90,
+    "weaponIcon": "https://enka.network/ui/UI_EquipIcon_Pole_Mori.png",
+    "weaponName": "\"The Catch\"",
+    "weaponAscension": 6,
+    "weaponStat": 510,
+    "artifacts": [
+      {
+        "id": 94543,
+        "name": "Magnificent Tsuba",
+        "type": "EQUIP_BRACER",
+        "set": "Emblem of Severed Fate",
+        "icon": "https://enka.network/ui/UI_RelicIcon_15020_4.png",
+        "level": 20,
+        "main_stat_name": "HP",
+        "main_stat_value": 4780,
+        "main_stat_type": 0,
+        "sub_stats": [
+          {
+            "name": "Elemental Mastery",
+            "value": 63,
+            "type": 0
+          },
+          {
+            "name": "DEF",
+            "value": 6.6,
+            "type": 1
+          },
+          {
+            "name": "CRIT DMG",
+            "value": 23.3,
+            "type": 1
+          },
+          {
+            "name": "Energy Recharge",
+            "value": 5.8,
+            "type": 1
+          }
+        ]
+      },
+      {
+        "id": 94524,
+        "name": "Sundered Feather",
+        "type": "EQUIP_NECKLACE",
+        "set": "Emblem of Severed Fate",
+        "icon": "https://enka.network/ui/UI_RelicIcon_15020_2.png",
+        "level": 20,
+        "main_stat_name": "ATK",
+        "main_stat_value": 311,
+        "main_stat_type": 0,
+        "sub_stats": [
+          {
+            "name": "CRIT Rate",
+            "value": 10.5,
+            "type": 1
+          },
+          {
+            "name": "CRIT DMG",
+            "value": 19.4,
+            "type": 1
+          },
+          {
+            "name": "DEF",
+            "value": 19,
+            "type": 0
+          },
+          {
+            "name": "Energy Recharge",
+            "value": 13.0,
+            "type": 1
+          }
+        ]
+      },
+      {
+        "id": 94553,
+        "name": "Storm Cage",
+        "type": "EQUIP_SHOES",
+        "set": "Emblem of Severed Fate",
+        "icon": "https://enka.network/ui/UI_RelicIcon_15020_5.png",
+        "level": 20,
+        "main_stat_name": "ATK",
+        "main_stat_value": 46.6,
+        "main_stat_type": 1,
+        "sub_stats": [
+          {
+            "name": "CRIT Rate",
+            "value": 9.7,
+            "type": 1
+          },
+          {
+            "name": "CRIT DMG",
+            "value": 11.7,
+            "type": 1
+          },
+          {
+            "name": "Energy Recharge",
+            "value": 6.5,
+            "type": 1
+          },
+          {
+            "name": "DEF",
+            "value": 35,
+            "type": 0
+          }
+        ]
+      },
+      {
+        "id": 94513,
+        "name": "Scarlet Vessel",
+        "type": "EQUIP_RING",
+        "set": "Emblem of Severed Fate",
+        "icon": "https://enka.network/ui/UI_RelicIcon_15020_1.png",
+        "level": 20,
+        "main_stat_name": "Pyro DMG Bonus",
+        "main_stat_value": 46.6,
+        "main_stat_type": 1,
+        "sub_stats": [
+          {
+            "name": "Energy Recharge",
+            "value": 4.5,
+            "type": 1
+          },
+          {
+            "name": "ATK",
+            "value": 37,
+            "type": 0
+          },
+          {
+            "name": "CRIT DMG",
+            "value": 28.0,
+            "type": 1
+          },
+          {
+            "name": "HP",
+            "value": 299,
+            "type": 0
+          }
+        ]
+      },
+      {
+        "id": 20533,
+        "name": "Laurel Coronet",
+        "type": "EQUIP_DRESS",
+        "set": "Deepwood Memories",
+        "icon": "https://enka.network/ui/UI_RelicIcon_15025_3.png",
+        "level": 20,
+        "main_stat_name": "CRIT Rate",
+        "main_stat_value": 31.1,
+        "main_stat_type": 1,
+        "sub_stats": [
+          {
+            "name": "ATK",
+            "value": 10.5,
+            "type": 1
+          },
+          {
+            "name": "DEF",
+            "value": 35,
+            "type": 0
+          },
+          {
+            "name": "CRIT DMG",
+            "value": 17.9,
+            "type": 1
+          },
+          {
+            "name": "DEF",
+            "value": 5.8,
+            "type": 1
+          }
+        ]
+      }
+    ],
+    "stats": {
+      "BASE_HP": 10122,
+      "FIGHT_PROP_HP": 5079,
+      "FIGHT_PROP_HP_PERCENT": "0%",
+      "FIGHT_PROP_BASE_ATTACK": 720,
+      "FIGHT_PROP_ATTACK": 348,
+      "FIGHT_PROP_ATTACK_PERCENT": "57.1%",
+      "FIGHT_PROP_BASE_DEFENSE": 623,
+      "FIGHT_PROP_DEFENSE": 88,
+      "FIGHT_PROP_DEFENSE_PERCENT": "12.4%",
+      "FIGHT_PROP_BASE_SPEED": 0,
+      "FIGHT_PROP_SPEED_PERCENT": "0%",
+      "FIGHT_PROP_HP_MP_PERCENT": "0%",
+      "FIGHT_PROP_ATTACK_MP_PERCENT": 0,
+      "FIGHT_PROP_CRITICAL": "56.3%",
+      "FIGHT_PROP_ANTI_CRITICAL": "0%",
+      "FIGHT_PROP_CRITICAL_HURT": "150.2%",
+      "FIGHT_PROP_CHARGE_EFFICIENCY": "195.7%",
+      "FIGHT_PROP_ADD_HURT": "0%",
+      "FIGHT_PROP_SUB_HURT": "0%",
+      "FIGHT_PROP_HEAL_ADD": "0%",
+      "FIGHT_PROP_HEALED_ADD": "0%",
+      "FIGHT_PROP_ELEMENT_MASTERY": 159,
+      "FIGHT_PROP_PHYSICAL_SUB_HURT": "0%",
+      "FIGHT_PROP_PHYSICAL_ADD_HURT": "0%",
+      "FIGHT_PROP_DEFENCE_IGNORE_RATIO": 0,
+      "FIGHT_PROP_DEFENCE_IGNORE_DELTA": 0,
+      "FIGHT_PROP_FIRE_ADD_HURT": "46.6%",
+      "FIGHT_PROP_ELEC_ADD_HURT": "0%",
+      "FIGHT_PROP_WATER_ADD_HURT": "0%",
+      "FIGHT_PROP_GRASS_ADD_HURT": "0%",
+      "FIGHT_PROP_WIND_ADD_HURT": "0%",
+      "FIGHT_PROP_ROCK_ADD_HURT": "0%",
+      "FIGHT_PROP_ICE_ADD_HURT": "0%",
+      "FIGHT_PROP_HIT_HEAD_ADD_HURT": "0%",
+      "FIGHT_PROP_FIRE_SUB_HURT": "0%",
+      "FIGHT_PROP_ELEC_SUB_HURT": "0%",
+      "FIGHT_PROP_WATER_SUB_HURT": "0%",
+      "FIGHT_PROP_GRASS_SUB_HURT": "0%",
+      "FIGHT_PROP_WIND_SUB_HURT": "0%",
+      "FIGHT_PROP_ROCK_SUB_HURT": "0%",
+      "FIGHT_PROP_ICE_SUB_HURT": "0%",
+      "FIGHT_PROP_EFFECT_HIT": 0,
+      "FIGHT_PROP_EFFECT_RESIST": 0,
+      "FIGHT_PROP_FREEZE_RESIST": 0,
+      "FIGHT_PROP_TORPOR_RESIST": 0,
+      "FIGHT_PROP_DIZZY_RESIST": 0,
+      "FIGHT_PROP_FREEZE_SHORTEN": 0,
+      "FIGHT_PROP_TORPOR_SHORTEN": 0,
+      "FIGHT_PROP_DIZZY_SHORTEN": 0,
+      "FIGHT_PROP_MAX_FIRE_ENERGY": 80,
+      "FIGHT_PROP_MAX_ELEC_ENERGY": 0,
+      "FIGHT_PROP_MAX_WATER_ENERGY": 0,
+      "FIGHT_PROP_MAX_GRASS_ENERGY": 0,
+      "FIGHT_PROP_MAX_WIND_ENERGY": 0,
+      "FIGHT_PROP_MAX_ICE_ENERGY": 0,
+      "FIGHT_PROP_MAX_ROCK_ENERGY": 0,
+      "FIGHT_PROP_SKILL_CD_MINUS_RATIO": 0,
+      "FIGHT_PROP_SHIELD_COST_MINUS_RATIO": 0,
+      "FIGHT_PROP_CUR_FIRE_ENERGY": 80,
+      "FIGHT_PROP_CUR_ELEC_ENERGY": 0,
+      "FIGHT_PROP_CUR_WATER_ENERGY": 0,
+      "FIGHT_PROP_CUR_GRASS_ENERGY": 0,
+      "FIGHT_PROP_CUR_WIND_ENERGY": 0,
+      "FIGHT_PROP_CUR_ICE_ENERGY": 0,
+      "FIGHT_PROP_CUR_ROCK_ENERGY": 0,
+      "FIGHT_PROP_CUR_HP": 11315,
+      "FIGHT_PROP_MAX_HP": 15201,
+      "FIGHT_PROP_CUR_ATTACK": 1478,
+      "FIGHT_PROP_CUR_DEFENSE": 788,
+      "FIGHT_PROP_CUR_SPEED": 0,
+      "FIGHT_PROP_NONEXTRA_ATTACK": 0,
+      "FIGHT_PROP_NONEXTRA_DEFENSE": 0,
+      "FIGHT_PROP_NONEXTRA_CRITICAL": "0%",
+      "FIGHT_PROP_NONEXTRA_CRITICAL_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_CHARGE_EFFICIENCY": "0%",
+      "FIGHT_PROP_NONEXTRA_ELEMENT_MASTERY": 0,
+      "FIGHT_PROP_NONEXTRA_PHYSICAL_SUB_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_FIRE_ADD_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_ELEC_ADD_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_WATER_ADD_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_GRASS_ADD_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_WIND_ADD_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_ROCK_ADD_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_ICE_ADD_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_FIRE_SUB_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_ELEC_SUB_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_WATER_SUB_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_GRASS_SUB_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_WIND_SUB_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_ROCK_SUB_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_ICE_SUB_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_SKILL_CD_MINUS_RATIO": 0,
+      "FIGHT_PROP_NONEXTRA_SHIELD_COST_MINUS_RATIO": 0,
+      "FIGHT_PROP_NONEXTRA_PHYSICAL_ADD_HURT": "0%"
+    }
+  },
+  {
+    "id": 10000043,
+    "name": "Sucrose",
+    "level": 80,
+    "maxLevel": 80,
+    "rarity": 4,
+    "element": "Wind",
+    "friendship_level": 10,
+    "ascension": 5,
+    "constellations_unlocked": 3,
+    "xp": 0,
+    "skills": [
+      {
+        "id": 10431,
+        "name": "Normal Attack: Wind Spirit Creation",
+        "icon": "https://enka.network/ui/Skill_A_Catalyst_MD.png",
+        "level": 1
+      },
+      {
+        "id": 10432,
+        "name": "Astable Anemohypostasis Creation - 6308",
+        "icon": "https://enka.network/ui/Skill_S_Sucrose_01.png",
+        "level": 10
+      },
+      {
+        "id": 10435,
+        "name": "Forbidden Creation - Isomer 75 / Type II",
+        "icon": "https://enka.network/ui/Skill_E_Sucrose_01.png",
+        "level": 7
+      }
+    ],
+    "weaponData": [
+      {
+        "substatWName": "Energy Recharge",
+        "substatWValue": 30.6,
+        "weaponStatType": 1
+      }
+    ],
+    "weapon_id": 14414,
+    "weapon_refinement": 4,
+    "weapon_main_stat_name": "Base ATK",
+    "weaponLevel": 90,
+    "weaponIcon": "https://enka.network/ui/UI_EquipIcon_Catalyst_Bakufu.png",
+    "weaponName": "Hakushin Ring",
+    "weaponAscension": 6,
+    "weaponStat": 565,
+    "artifacts": [
+      {
+        "id": 76543,
+        "name": "In Remembrance of Viridescent Fields",
+        "type": "EQUIP_BRACER",
+        "set": "Viridescent Venerer",
+        "icon": "https://enka.network/ui/UI_RelicIcon_15002_4.png",
+        "level": 20,
+        "main_stat_name": "HP",
+        "main_stat_value": 4780,
+        "main_stat_type": 0,
+        "sub_stats": [
+          {
+            "name": "ATK",
+            "value": 35,
+            "type": 0
+          },
+          {
+            "name": "CRIT DMG",
+            "value": 21.8,
+            "type": 1
+          },
+          {
+            "name": "Elemental Mastery",
+            "value": 42,
+            "type": 0
+          },
+          {
+            "name": "CRIT Rate",
+            "value": 3.1,
+            "type": 1
+          }
+        ]
+      },
+      {
+        "id": 76524,
+        "name": "Viridescent Arrow Feather",
+        "type": "EQUIP_NECKLACE",
+        "set": "Viridescent Venerer",
+        "icon": "https://enka.network/ui/UI_RelicIcon_15002_2.png",
+        "level": 20,
+        "main_stat_name": "ATK",
+        "main_stat_value": 311,
+        "main_stat_type": 0,
+        "sub_stats": [
+          {
+            "name": "Energy Recharge",
+            "value": 16.8,
+            "type": 1
+          },
+          {
+            "name": "CRIT Rate",
+            "value": 11.7,
+            "type": 1
+          },
+          {
+            "name": "DEF",
+            "value": 21,
+            "type": 0
+          },
+          {
+            "name": "CRIT DMG",
+            "value": 7.8,
+            "type": 1
+          }
+        ]
+      },
+      {
+        "id": 76553,
+        "name": "Viridescent Venerer's Determination",
+        "type": "EQUIP_SHOES",
+        "set": "Viridescent Venerer",
+        "icon": "https://enka.network/ui/UI_RelicIcon_15002_5.png",
+        "level": 20,
+        "main_stat_name": "Elemental Mastery",
+        "main_stat_value": 187,
+        "main_stat_type": 0,
+        "sub_stats": [
+          {
+            "name": "ATK",
+            "value": 15.7,
+            "type": 1
+          },
+          {
+            "name": "DEF",
+            "value": 23,
+            "type": 0
+          },
+          {
+            "name": "Energy Recharge",
+            "value": 5.8,
+            "type": 1
+          },
+          {
+            "name": "DEF",
+            "value": 19.0,
+            "type": 1
+          }
+        ]
+      },
+      {
+        "id": 76513,
+        "name": "Viridescent Venerer's Vessel",
+        "type": "EQUIP_RING",
+        "set": "Viridescent Venerer",
+        "icon": "https://enka.network/ui/UI_RelicIcon_15002_1.png",
+        "level": 20,
+        "main_stat_name": "Elemental Mastery",
+        "main_stat_value": 187,
+        "main_stat_type": 0,
+        "sub_stats": [
+          {
+            "name": "ATK",
+            "value": 47,
+            "type": 0
+          },
+          {
+            "name": "DEF",
+            "value": 23,
+            "type": 0
+          },
+          {
+            "name": "HP",
+            "value": 299,
+            "type": 0
+          },
+          {
+            "name": "ATK",
+            "value": 15.7,
+            "type": 1
+          }
+        ]
+      },
+      {
+        "id": 21533,
+        "name": "Shadow of the Sand King",
+        "type": "EQUIP_DRESS",
+        "set": "Gilded Dreams",
+        "icon": "https://enka.network/ui/UI_RelicIcon_15026_3.png",
+        "level": 20,
+        "main_stat_name": "Elemental Mastery",
+        "main_stat_value": 187,
+        "main_stat_type": 0,
+        "sub_stats": [
+          {
+            "name": "CRIT DMG",
+            "value": 17.9,
+            "type": 1
+          },
+          {
+            "name": "Energy Recharge",
+            "value": 5.8,
+            "type": 1
+          },
+          {
+            "name": "CRIT Rate",
+            "value": 7.0,
+            "type": 1
+          },
+          {
+            "name": "ATK",
+            "value": 33,
+            "type": 0
+          }
+        ]
+      }
+    ],
+    "stats": {
+      "BASE_HP": 8193,
+      "FIGHT_PROP_HP": 5079,
+      "FIGHT_PROP_HP_PERCENT": "0%",
+      "FIGHT_PROP_BASE_ATTACK": 716,
+      "FIGHT_PROP_ATTACK": 426,
+      "FIGHT_PROP_ATTACK_PERCENT": "31.5%",
+      "FIGHT_PROP_BASE_DEFENSE": 624,
+      "FIGHT_PROP_DEFENSE": 68,
+      "FIGHT_PROP_DEFENSE_PERCENT": "19.0%",
+      "FIGHT_PROP_BASE_SPEED": 0,
+      "FIGHT_PROP_SPEED_PERCENT": "0%",
+      "FIGHT_PROP_HP_MP_PERCENT": "0%",
+      "FIGHT_PROP_ATTACK_MP_PERCENT": 0,
+      "FIGHT_PROP_CRITICAL": "26.8%",
+      "FIGHT_PROP_ANTI_CRITICAL": "0%",
+      "FIGHT_PROP_CRITICAL_HURT": "97.4%",
+      "FIGHT_PROP_CHARGE_EFFICIENCY": "159.1%",
+      "FIGHT_PROP_ADD_HURT": "0%",
+      "FIGHT_PROP_SUB_HURT": "0%",
+      "FIGHT_PROP_HEAL_ADD": "0%",
+      "FIGHT_PROP_HEALED_ADD": "0%",
+      "FIGHT_PROP_ELEMENT_MASTERY": 602,
+      "FIGHT_PROP_PHYSICAL_SUB_HURT": "0%",
+      "FIGHT_PROP_PHYSICAL_ADD_HURT": "0%",
+      "FIGHT_PROP_DEFENCE_IGNORE_RATIO": 0,
+      "FIGHT_PROP_DEFENCE_IGNORE_DELTA": 0,
+      "FIGHT_PROP_FIRE_ADD_HURT": "0%",
+      "FIGHT_PROP_ELEC_ADD_HURT": "0%",
+      "FIGHT_PROP_WATER_ADD_HURT": "0%",
+      "FIGHT_PROP_GRASS_ADD_HURT": "0%",
+      "FIGHT_PROP_WIND_ADD_HURT": "33.0%",
+      "FIGHT_PROP_ROCK_ADD_HURT": "0%",
+      "FIGHT_PROP_ICE_ADD_HURT": "0%",
+      "FIGHT_PROP_HIT_HEAD_ADD_HURT": "0%",
+      "FIGHT_PROP_FIRE_SUB_HURT": "0%",
+      "FIGHT_PROP_ELEC_SUB_HURT": "0%",
+      "FIGHT_PROP_WATER_SUB_HURT": "0%",
+      "FIGHT_PROP_GRASS_SUB_HURT": "0%",
+      "FIGHT_PROP_WIND_SUB_HURT": "0%",
+      "FIGHT_PROP_ROCK_SUB_HURT": "0%",
+      "FIGHT_PROP_ICE_SUB_HURT": "0%",
+      "FIGHT_PROP_EFFECT_HIT": 0,
+      "FIGHT_PROP_EFFECT_RESIST": 0,
+      "FIGHT_PROP_FREEZE_RESIST": 0,
+      "FIGHT_PROP_TORPOR_RESIST": 0,
+      "FIGHT_PROP_DIZZY_RESIST": 0,
+      "FIGHT_PROP_FREEZE_SHORTEN": 0,
+      "FIGHT_PROP_TORPOR_SHORTEN": 0,
+      "FIGHT_PROP_DIZZY_SHORTEN": 0,
+      "FIGHT_PROP_MAX_FIRE_ENERGY": 0,
+      "FIGHT_PROP_MAX_ELEC_ENERGY": 0,
+      "FIGHT_PROP_MAX_WATER_ENERGY": 0,
+      "FIGHT_PROP_MAX_GRASS_ENERGY": 0,
+      "FIGHT_PROP_MAX_WIND_ENERGY": 80,
+      "FIGHT_PROP_MAX_ICE_ENERGY": 0,
+      "FIGHT_PROP_MAX_ROCK_ENERGY": 0,
+      "FIGHT_PROP_SKILL_CD_MINUS_RATIO": 0,
+      "FIGHT_PROP_SHIELD_COST_MINUS_RATIO": 0,
+      "FIGHT_PROP_CUR_FIRE_ENERGY": 0,
+      "FIGHT_PROP_CUR_ELEC_ENERGY": 0,
+      "FIGHT_PROP_CUR_WATER_ENERGY": 0,
+      "FIGHT_PROP_CUR_GRASS_ENERGY": 0,
+      "FIGHT_PROP_CUR_WIND_ENERGY": 80,
+      "FIGHT_PROP_CUR_ICE_ENERGY": 0,
+      "FIGHT_PROP_CUR_ROCK_ENERGY": 0,
+      "FIGHT_PROP_CUR_HP": 13271,
+      "FIGHT_PROP_MAX_HP": 13271,
+      "FIGHT_PROP_CUR_ATTACK": 1367,
+      "FIGHT_PROP_CUR_DEFENSE": 809,
+      "FIGHT_PROP_CUR_SPEED": 0,
+      "FIGHT_PROP_NONEXTRA_ATTACK": 0,
+      "FIGHT_PROP_NONEXTRA_DEFENSE": 0,
+      "FIGHT_PROP_NONEXTRA_CRITICAL": "0%",
+      "FIGHT_PROP_NONEXTRA_CRITICAL_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_CHARGE_EFFICIENCY": "0%",
+      "FIGHT_PROP_NONEXTRA_ELEMENT_MASTERY": 0,
+      "FIGHT_PROP_NONEXTRA_PHYSICAL_SUB_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_FIRE_ADD_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_ELEC_ADD_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_WATER_ADD_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_GRASS_ADD_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_WIND_ADD_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_ROCK_ADD_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_ICE_ADD_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_FIRE_SUB_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_ELEC_SUB_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_WATER_SUB_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_GRASS_SUB_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_WIND_SUB_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_ROCK_SUB_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_ICE_SUB_HURT": "0%",
+      "FIGHT_PROP_NONEXTRA_SKILL_CD_MINUS_RATIO": 0,
+      "FIGHT_PROP_NONEXTRA_SHIELD_COST_MINUS_RATIO": 0,
+      "FIGHT_PROP_NONEXTRA_PHYSICAL_ADD_HURT": "0%"
+    }
+  }
+]
